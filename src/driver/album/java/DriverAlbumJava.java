@@ -17,7 +17,7 @@ public class DriverAlbumJava {
     public static void main(String[] args) {
         // TODO code application logic here
         Song song1 = new Song();
-        Song song2 = new Song();
+        Song song2 = new Song()
         
         song1.setTitle("Melukis Senja");
         song1.setArtist("Budi Doremi");
